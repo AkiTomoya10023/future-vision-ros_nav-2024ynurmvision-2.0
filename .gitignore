@@ -1,0 +1,7 @@
+/.vscode
+/.idea
+/build
+/cmake-build-debug-wsl
+
+*.log
+*.engine
